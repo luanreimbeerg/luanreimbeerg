@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Luan Trajano!</strong>
 
-> Trabalho como desenvolvedor, atualmente como mobile utilizando react native e expo...
+> Trabalho como desenvolvedor, atualmente como front-end usando single SPA para desenvolver micro-frontEnds usando angular...
 
 
 💬 [Para saber mais...](https://www.linkedin.com/in/luan-reimberg-7340a6194/)
